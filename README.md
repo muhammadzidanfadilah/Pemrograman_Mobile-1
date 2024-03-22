@@ -1,2 +1,2 @@
-# Pemrograman_Mobile2_Ke1
+# Pemrograman_Mobile_2_Tugas_Ke_1
 
